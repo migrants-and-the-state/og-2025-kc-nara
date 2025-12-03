@@ -1,0 +1,14 @@
+# batch config
+
+label:              '' # TO DO
+description:        'NARA A-Files for Migrants and the State Project'
+attribution:        ''
+source_dir:         '' # TO DO
+
+presentation_api_url: 'https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com'
+image_api_url:        'https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3'
+
+records:
+  file: 'src/records.csv'
+
+

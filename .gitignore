@@ -1,0 +1,7 @@
+aperitiiif-cli
+.env
+.DS_Store
+tmp
+build/image
+build/presentation
+notes*
