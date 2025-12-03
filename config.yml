@@ -1,9 +1,9 @@
 # batch config
 
-label:              '' # TO DO
+label:              '2025-KC-NARA'
 description:        'NARA A-Files for Migrants and the State Project'
 attribution:        ''
-source_dir:         '' # TO DO
+source_dir:         '/Volumes/migrants_state/OG-2025-KC-NARA/jpgs'
 
 presentation_api_url: 'https://mats-aperitiiif-presenation-api-store-v1.s3.us-east-1.amazonaws.com'
 image_api_url:        'https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3'
